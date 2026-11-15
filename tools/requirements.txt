@@ -1,0 +1,5 @@
+esptool==5.6.0
+bleak==3.1.0
+pyserial==3.5
+numpy
+# optional, local transcription check: faster-whisper==1.2.1

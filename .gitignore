@@ -1,0 +1,7 @@
+backups/
+build/
+tools/.venv/
+recordings/
+*.wav
+__pycache__/
+.DS_Store
